@@ -1,4 +1,4 @@
-### Things I work on
+### Things I am currently working on
 
 [<img src="https://jobs.cybervie.com/images/logos/gif-cyberlogo.gif" width="64" height="32" align="center"> **CyberVie**](jobs.cybervie.com) — Cybersecurity job platform.  
 ---
