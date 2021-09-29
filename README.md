@@ -1,7 +1,7 @@
 ### Things I am currently working on
 
-Life
----
+- Life
+
 Here's my Github Stats
 
 ![Abdul Wasey's github stats](https://github-readme-stats.vercel.app/api?username=abdulwasey&show_icons=true&count_private=true) 
