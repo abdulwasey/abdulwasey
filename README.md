@@ -18,6 +18,7 @@ Here's my Github Stats
   <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
 </div>
 
+<br/>
 
 ![Abdul Wasey's github stats](https://github-readme-stats.vercel.app/api?username=abdulwasey&show_icons=true&count_private=true&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight) 
 
