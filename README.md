@@ -24,7 +24,7 @@ Here's my Github Stats
 
 ![](https://komarev.com/ghpvc/?username=abdulwasey)
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>Profile Stats</summary>
   <br/>
    <a><img alt="Abdul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulwasey&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" height="192px"/></a>
   <a ><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=20&username=abdulwasey&hide=html&theme=material-palenight" height="192px"/></a>
