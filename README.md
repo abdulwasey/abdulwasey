@@ -22,7 +22,7 @@
 
 Here's my Github Stats
 
-![](https://komarev.com/ghpvc/?username=abdulwasey&label=+visitor)
+![](https://komarev.com/ghpvc/?username=abdulwasey)
 
 ![Abdul Wasey's github stats](https://github-readme-stats.vercel.app/api?username=abdulwasey&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight) 
 
