@@ -5,10 +5,8 @@
 - Life
 - Typescript
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Tech Stack</b>  
-
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+### The Tech Triangle
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
@@ -148,40 +146,40 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
     />
     
-<img
+&nbsp;<img
       alt="TS"
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    />  <img
+    />  &nbsp;<img
       alt="JS"
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    />  <img
+    />  &nbsp;<img
       alt="Java"
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    />  <img
+    />  &nbsp;<img
       alt="Python"
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    />  <img
+    />  &nbsp;<img
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-    />  <img
+    />  &nbsp;<img
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-    />  <img
+    /> &nbsp; <img
       alt="swift"
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
-    />  <img
+    />  &nbsp;<img
       alt="kotlin"
       height="50"
       width="50"
