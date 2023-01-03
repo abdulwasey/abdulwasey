@@ -146,40 +146,40 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
     />
     
-&nbsp;<img
+<img
       alt="TS"
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    />  &nbsp;<img
+    /> <img
       alt="JS"
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    />  &nbsp;<img
+    /> <img
       alt="Java"
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    />  &nbsp;<img
+    /> <img
       alt="Python"
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    />  &nbsp;<img
+    /> <img
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-    />  &nbsp;<img
+    /><img
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-    /> &nbsp; <img
+    /> <img
       alt="swift"
       height="50"
       width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
-    />  &nbsp;<img
+    /> <img
       alt="kotlin"
       height="50"
       width="50"
