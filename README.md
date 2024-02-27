@@ -30,7 +30,7 @@
       alt="NextJS"
       height="50"
       width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
     /> <img
       height="50"
       width="50"
@@ -99,7 +99,7 @@
       alt="Tailwind"
       height="50"
       width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
     /> <img
       height="50"
       width="50"
