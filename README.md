@@ -119,7 +119,7 @@
       alt="NestJS"
       height="50"
       width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
     /> <img
       alt="NodeJS"
       height="50"
