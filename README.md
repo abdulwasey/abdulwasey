@@ -1,25 +1,9 @@
-### Hi there, I'm [Abdul Wasey!](http://www.abdulwasey.me) 👋
+### Hi, I'm Abdul 👋
 
-### Things I am currently working on
+Software engineer in Hyderabad, India. I build web and mobile apps with TypeScript, React and React Native, and lately small native macOS tools with Tauri + Rust.
 
-- Life
-- Typescript
+**Menu bar apps I use every day:**
 
-
-<br/>
-
-Here's my Github Stats
-
-![](https://komarev.com/ghpvc/?username=abdulwasey)
-<details> 
-  <summary>Profile Stats</summary>
-  <br/>
-   <a><img alt="Abdul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulwasey&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" height="192px"/></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=20&username=abdulwasey&hide=html&theme=material-palenight" height="192px"/></a>
-<br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<!-- 
-<a href="http://www.abdulwasey.me"><img src="http://www.abdulwasey.me/favicon.png" alt="Mohammed Abdul Wasey" height="30" width="30"></a> <a href="https://dev.to/abdulwasey"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mohammed Abdul Wasey's DEV Profile" height="30" width="30"></a>
- -->
+- [Agent Bar](https://github.com/abdulwasey/agent-bar): see your Claude Code sessions, get notified when one needs you, and answer permission prompts from the menu bar
+- [PR Bar](https://github.com/abdulwasey/pr-bar): your PRs, review requests and CI status, with notifications when they change
+- [Roam Bar](https://github.com/abdulwasey/roam-bar): set your Roam status with one click
