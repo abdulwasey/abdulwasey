@@ -7,3 +7,7 @@ Software engineer in Hyderabad, India. I build web and mobile apps with TypeScri
 - [Agent Bar](https://github.com/abdulwasey/agent-bar): see your Claude Code sessions, get notified when one needs you, and answer permission prompts from the menu bar
 - [PR Bar](https://github.com/abdulwasey/pr-bar): your PRs, review requests and CI status, with notifications when they change
 - [Roam Bar](https://github.com/abdulwasey/roam-bar): set your Roam status with one click
+
+**Agent skills:**
+
+- [skills](https://github.com/abdulwasey/skills): my React/TypeScript review checklist, code design principles and UI audit method, packaged for Claude Code (`npx skills add abdulwasey/skills`)
